@@ -1,0 +1,8 @@
+J:\VS2005projects\Engineering Economics\Engineering Economics\bin\Debug\Engineering Economics.exe
+J:\VS2005projects\Engineering Economics\Engineering Economics\bin\Debug\Engineering Economics.pdb
+J:\VS2005projects\Engineering Economics\Engineering Economics\obj\Debug\ResolveAssemblyReference.cache
+J:\VS2005projects\Engineering Economics\Engineering Economics\obj\Debug\WindowsApplication1.Form1.resources
+J:\VS2005projects\Engineering Economics\Engineering Economics\obj\Debug\Engineering Economics.csproj.GenerateResource.Cache
+J:\VS2005projects\Engineering Economics\Engineering Economics\obj\Debug\Engineering Economics.exe
+J:\VS2005projects\Engineering Economics\Engineering Economics\obj\Debug\Engineering Economics.pdb
+J:\VS2005projects\Engineering Economics\Engineering Economics\obj\Debug\Calculator.Properties.Resources.resources
